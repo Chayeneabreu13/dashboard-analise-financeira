@@ -2,7 +2,7 @@
 
 Dashboard em Power BI para analisar receitas, despesas e margem de lucro de uma empresa, identificando os componentes de maior e menor desempenho para apoiar o planejamento estratégico.
 
-![Dashboard](imagens/dashboard.png)
+![Dashboard](imagens/dashboard.png.jpeg)
 
 
 ---
